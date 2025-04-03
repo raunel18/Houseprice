@@ -1,0 +1,4 @@
+Pandas
+numpy
+streamlit
+scikit-learn ==1.5.1
